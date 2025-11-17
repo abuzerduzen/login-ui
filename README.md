@@ -14,7 +14,7 @@ Arka planda modern cyberpunk tarzı bir görsel ve yumuşak renk geçişleri kul
 - Responsive uyumlu yapı
 
 ## 📂 Proje Yapısı
-/ (kök klasör)
+(kök klasör)
 │── index.html  
 │── style.css  
 │── background.png  
